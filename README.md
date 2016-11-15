@@ -1,9 +1,3 @@
-Maybe I didn't use enough blank lines.
-
-Not sure how to fix this merge issue but this one needs to win.
-
-This is from Notepad  on the local master branch.  I hope.
-
 **Write a description for the Meetup announcement for Larry**
 
 **Outline of things to include**
@@ -12,7 +6,7 @@ This is from Notepad  on the local master branch.  I hope.
     * New features
     * Copy SD card with hub
     * pixel with Arduiono IDE on PNY16GbU1jmp card
-    * 
+    *
 * How to update the git install to all subprograms
 * adding the cola gui
 * set up a github or bitbucket repo
@@ -23,8 +17,9 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
+* The GitHub remote repo is local only on my work pc.  
 * This is to track desktop changes for the Pi3 with jmp32gbc10 sd card.
-* And to keep the branchs on the work separate from the two on the Pi.
+* And to keep the branches on the work separate from the two on the Pi.
 * The master branch on bit bucket should be the actual desktop on the Pi above
 
 ### How do I get set up? ###
@@ -33,10 +28,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Contribution guidelines ###
 
-* Other guidelines
-oh and this
-* Writing tests
-* Code review
+* Write your own
 
 ### Who do I talk to? ###
 * Somebody that knows?
