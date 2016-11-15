@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Name=Sound Check
+Comment=aplay /usr/share/sounds/alsa/Front_Center.wav
+Icon=/usr/share/pixmaps/qjackctl.xpm
+Exec=aplay /usr/share/sounds/alsa/Front_Center.wav
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=Accessories;

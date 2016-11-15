@@ -1,0 +1,14 @@
+#
+#  Create a text file in /home/pi/Desktop - called <name>.desktop
+#  eg RaspberryPi.desktop
+#
+#
+#CODE: SELECT ALL
+[Desktop Entry]
+Type=Link
+Name=Raspberry Pi website
+Comment=The infamous Raspberry Pi computer
+Icon=/usr/share/raspberrypi-artwork/raspberry-pi-logo.png
+URL=https://www.raspberrypi.org
+
+
