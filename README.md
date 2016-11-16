@@ -6,7 +6,7 @@
     * New features
     * Copy SD card with hub
     * pixel with Arduiono IDE on PNY16GbU1jmp card
-    * c9.io?
+    * c9.io open ...markit... web app
 * How to update the git install to all subprograms
 * adding the cola gui
 * set up a github or bitbucket repo
