@@ -5,7 +5,8 @@
 * Show the latest NOOBs updates for pixel.
     * New features
     * Copy SD card with hub
-    * pixel with Arduiono IDE on PNY16GbU1jmp card
+    * pixel with Arduino IDE on PNY16GbU1jmp card
+    * sudo apt-get install arduino after update/upgrade
     * c9.io open ...markit... web app  See the README
 * How to update the git install to all subprograms
 * adding the cola gui
