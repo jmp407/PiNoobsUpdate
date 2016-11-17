@@ -13,6 +13,8 @@
 * adding the cola gui
 * set up a github or bitbucket repo
 * Clone it to the Pi.
+
+Markdown in a web page ( https://github.com/Naereen/StrapDown.js )
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
