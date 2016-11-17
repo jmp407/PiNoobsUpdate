@@ -3,11 +3,12 @@
 **Outline of things to include**
 
 * Show the latest NOOBs updates for pixel.
-    * New features
+    * New browser Chromium
+    * New editor and programming IDEs
     * Copy SD card with hub
-    * pixel with Arduino IDE on PNY16GbU1jmp card
-    * sudo apt-get install arduino after update/upgrade
     * c9.io open ...markit... web app  See the README
+    * sudo apt-get install arduino after update/upgrade
+    * pixel with Arduino IDE on PNY16GbU1jmp card
 * How to update the git install to all subprograms
 * adding the cola gui
 * set up a github or bitbucket repo
