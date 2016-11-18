@@ -9,10 +9,13 @@
     * c9.io open ...markit... web app  See the README
     * sudo apt-get install arduino after update/upgrade
     * pixel with Arduino IDE on PNY16GbU1jmp card
+* Connect the Pi to the monitor with HDMI cable
 * How to update the git install to all subprograms
 * adding the cola gui
 * set up a github or bitbucket repo
 * Clone it to the Pi.
+
+Markdown in a web page ( https://github.com/Naereen/StrapDown.js )
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
