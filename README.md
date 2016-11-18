@@ -9,6 +9,7 @@
     * c9.io open ...markit... web app  See the README
     * sudo apt-get install arduino after update/upgrade
     * pixel with Arduino IDE on PNY16GbU1jmp card
+* uncomment right/left overscan for insignia monitor
 * How to update the git install to all subprograms
 * adding the cola gui
 * set up a github or bitbucket repo
